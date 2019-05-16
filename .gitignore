@@ -46,6 +46,13 @@
 *.mod*
 *.cmd
 .tmp_versions/
+
+# Image
+*.jpg
+*.png
+*.bmp
+
+
 modules.order
 Module.symvers
 Mkfile.old
